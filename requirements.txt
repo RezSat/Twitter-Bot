@@ -1,0 +1,7 @@
+tweepy
+
+BeautifulSoup4
+
+APScheduler==3.0.0
+
+user_agent
